@@ -33,7 +33,7 @@
 
 - (void)applicationWillEnterForeground:(UIApplication *)application
 {
-    printf("This is fundflow branch");
+    printf("This is fundflow branch and update 3");
     // Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
 }
 
